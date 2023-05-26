@@ -1,0 +1,12 @@
+footer {
+    position: fixed;
+    display: flex;
+    width: 100%;
+    height: 60px;
+    grid-area: footer;
+    align-self: flex-end;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #00FF00;
+}
